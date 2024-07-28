@@ -1,6 +1,6 @@
 allowedVehiclesList = [ 'Ford F-150', 'Chevrolet Silverado', 'Tesla CyberTruck', 'Toyota Tundra', 'Nissan Titan' ]
 menu = f"""********************************
-AutoCountry Vehicle Finder v0.2
+AutoCountry Vehicle Finder v0.3
 ********************************
 Please Enter the following number below from the following menu:\n
 1. PRINT all Authorized Vehicles
